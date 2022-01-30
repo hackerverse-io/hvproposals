@@ -39,4 +39,4 @@ The following labels are active:
 - Orange 'Invalid' Label: It will be added to proposals that do not adhere to the Hackerverse proposal standards outlined in the document. These proposals will be closed.
 - Red 'Spam' Label: This tag will be to flag people who have been submitting spam proposals, refusing to respond to our inquiries, or refusal to adhere to proposal standards.Upon receiving the spam tag, your account will be blocked from interacting with the GitHub repo. Continued abuse in any form will result in a report to GitHub staff to investigate the account(s).
 
-These labels and purpose are subject to change often and we will update everyone to those changes in our Discord/Twitter Bulletin.
+These labels and purpose are subject to change often and we will update everyone to those changes in our [Discord](https://discord.com/invite/CzapuTafEA) and [Twitter] (https://twitter.com/Hackerverseio) Bulletin.
