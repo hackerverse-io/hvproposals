@@ -5,7 +5,7 @@ As an explorer or creator, you can explore multiple avenues in HV ranging from v
 ## HackerVerse Proposal Standards
 We are buidling several HackerVerse Company offices, Coworking spaces, Gaming Arenas, and Conference halls exclusively for creators. We propose to invite all idealists and fixers to build and launch your dream verse with us.
 
-The proposal marked with **Green Label** with the highest likes will receive the Proposal incentives. The incentive allows the holder to signal for new space to be built by the Hackerverse team.
+The proposal marked with **Green Label** with the highest likes will receive the Proposal incentives. The incentive allows the holder to signal for new space to be built by the Hackerverse team. Also the user submitting the proposal should be part of our Discord server at [here](https://discord.com/invite/CzapuTafEA)
  
 Before you get started, make sure to familiarize yourself with the 'HackerVerse Proposal Standard' along with what is alleged as a 'Qualifying Proposal' for submission. When ready, simply submit your proposal as a [new issue](https://github.com/hackerverse-io/hvproposals/issues/new) in this repository. Check existing [issues](https://github.com/hackerverse-io/hvproposals/issues) for examples. 
 
@@ -22,11 +22,15 @@ To be considered as a 'qualifying proposal' the below conditions must be met:
 - The proposal was submitted as an issue in the [Hackerverseio/Proposals repository](https://github.com/hackerverse-io/hvproposals)
 - The proposal adheres to the Hackerverse Proposal Standard template as shared in [issues](https://github.com/hackerverse-io/hvproposals/issues).
 - The proposal submitted doesn't violate any copyright or trademark regulations w.r.t any other such similar issue. 
-
+- The user who is submitting the proposal is part of our Discord Group which is [here](https://discord.com/invite/CzapuTafEA).
+- After submitting the proposal, users should share the same on **#hvproposals** channel on our Discord community. The format of sharing the message is pinned on the Discord Group. 
+- Try to get maximum likes and mentions in the Discord Community to get the highest rating on your proposal and the incentive that comes along with it. 
+ 
 Proposals not adhering to these standards will be closed out and the orange **'Invalid’** label will be attached.
 
 ## Proposals Incentives
 To incentivize proposals of new space in Hackerverse, we offer to provide **1000 HVcoins** (check here, [what is HVCoin](https://hackerverse.io/hvcoin/)) to the winner of the most loved proposal. The closing date for this selection process will be dependent on activity within the registry and our roadmap progress.
+Also , every other green potential proposal will get **atleast 100 HV Coins**.
 The Hackerverse dev team will build the user-submitted office/space proposal. The winner will be designated as “HV Architect” and could also actively contribute to the code with our developers. Hackerverse highly believes in inspiring ideology, creativity, and efforts. Hence, even if the participants know a little about coding or don’t know to code, our dev team helps push their problem-solving and creative skills in the metaverse.
 
 ## Proposal Labels
