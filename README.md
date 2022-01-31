@@ -20,7 +20,7 @@ Ethereum Address: Be sure it is an Ethereum address that you control the private
 ## Qualifying Proposals
 To be considered as a 'qualifying proposal' the below conditions must be met:
 - The proposal was submitted as an issue in the [Hackerverseio/Proposals repository](https://github.com/hackerverse-io/hvproposals)
-- The proposal adheres to the Hackerverse Proposal Standard template as shared in [issues](https://github.com/hackerverse-io/hvproposals/issues).
+- The proposal adheres to the Hackerverse Proposal Standard template as shared in [issues](https://github.com/hackerverse-io/hvproposals/issues). An example is submitted as Issue#1 [here](https://github.com/hackerverse-io/hvproposals/issues/1)
 - The proposal submitted doesn't violate any copyright or trademark regulations w.r.t any other such similar issue. 
 - The user who is submitting the proposal is part of our Discord Group which is [here](https://discord.com/invite/CzapuTafEA).
 - After submitting the proposal, users should share the same on **#hvproposals** channel on our Discord community. The format of sharing the message is pinned on the Discord Group. 
