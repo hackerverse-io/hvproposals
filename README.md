@@ -29,8 +29,8 @@ To be considered as a 'qualifying proposal' the below conditions must be met:
 Proposals not adhering to these standards will be closed out and the orange **'Invalid’** label will be attached.
 
 ## Proposals Incentives
-To incentivize proposals of new space in Hackerverse, we offer to provide **1000 HVcoins** (check here, [what is HVCoin](https://hackerverse.io/hvcoin/)) to the winner of the most loved proposal. The closing date for this selection process will be dependent on activity within the registry and our roadmap progress.
-Also , every other green potential proposal will get **atleast 100 HV Coins**.
+To incentivize proposals of new space in Hackerverse, we offer to provide **1000 tokens** (check here, [what is token](https://hackerverse.io/hvcoin/)) to the winner of the most loved proposal. The closing date for this selection process will be dependent on activity within the registry and our roadmap progress.
+Also , every other green potential proposal will get **atleast 100 HV tokens**.
 The Hackerverse dev team will build the user-submitted office/space proposal. The winner will be designated as “HV Architect” and could also actively contribute to the code with our developers. Hackerverse highly believes in inspiring ideology, creativity, and efforts. Hence, even if the participants know a little about coding or don’t know to code, our dev team helps push their problem-solving and creative skills in the metaverse.
 
 ## Proposal Labels
